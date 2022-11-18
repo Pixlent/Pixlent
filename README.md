@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mar123beheima
 - 👀 I’m interested in plugin development
-- 🌱 I’m currently learning java?
-- 💞️ I’m looking to collaborate on my server PixelPi
+- 🌱 I’m currently learning rust! Its awesome
+- 💞️ I’m looking to collaborate on my company PixelPi
 - 📫 Reach me on discord: Pr. Chicken Coder#5340
 
 <!---
