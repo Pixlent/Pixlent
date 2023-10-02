@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @mar123beheima
-- 👀 I’m interested in plugin development
-- 🌱 I love learning new programming languages!
-- 💞️ I’m looking to collaborate on my company PixelPi
-- 📫 Reach me on discord: Pixlent#5340
+- 👋 Hi, I’m @Pixlent
+- 👀 I’m interested in custom minecraft server software development
+- 🌱 I love leaning new java syntax I will use once and forget about
+- 💞️ I’m looking to collaborate on my newest project, Spool!
+- 📫 Reach me on discord: Pixlent
 
-<!---
-mar123beheima/mar123beheima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Might actually make this interesting some day...
